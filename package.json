@@ -1,0 +1,19 @@
+{
+  "name": "ci-cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aalvarezb9/ci-cd.git"
+  },
+  "author": "Angel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aalvarezb9/ci-cd/issues"
+  },
+  "homepage": "https://github.com/aalvarezb9/ci-cd#readme"
+}
